@@ -35,3 +35,13 @@ Hệ thống quản lý thiết bị phòng học trên nền tảng đám mây,
 - Dịch vụ Render Backend: api-235641
 - URL Backend API công khai: https://api-235641.onrender.com
 - Health Check Endpoint: https://api-235641.onrender.com/health
+
+## 9. Bảng thông tin nộp bài tổng hợp
+| Trường thông tin | Nội dung cung cấp |
+| :--- | :--- |
+| Link_GitHub | https://github.com/trongdoan05/235641_TranTrongDoan |
+| Link_Docker_Backend | https://hub.docker.com/r/trongdoan05/backend |
+| Link_Docker_Frontend | https://hub.docker.com/r/trongdoan05/frontend |
+| Link_Render_App | https://web-235641.onrender.com |
+| Link_Render_API | https://api-235641.onrender.com |
+| Link_Data_MongoDB | Database: 235641_TranTrongDoan / Collection: devices |

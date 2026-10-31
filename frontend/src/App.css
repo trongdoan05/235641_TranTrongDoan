@@ -1,4 +1,4 @@
-﻿* { box-sizing: border-box; font-family: 'Segoe UI', Tahoma, sans-serif; }
+* { box-sizing: border-box; font-family: 'Segoe UI', Tahoma, sans-serif; }
 body { margin: 0; background-color: #f4f6f9; color: #222; }
 .container { max-width: 1200px; margin: 24px auto; padding: 0 16px; }
 header { background: #1e3a8a; color: white; padding: 18px 24px; border-radius: 8px; margin-bottom: 20px; }

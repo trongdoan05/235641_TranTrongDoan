@@ -1,0 +1,38 @@
+﻿[
+  {
+    "deviceId": "TB001",
+    "name": "Máy chiếu Epson EB-E01",
+    "deviceType": "Máy chiếu",
+    "room": "P.A101",
+    "brand": "Epson",
+    "model": "EB-E01 XGA 3300 Lumens",
+    "quantity": 1,
+    "status": "Đang sử dụng",
+    "purchaseDate": "2025-08-15",
+    "description": "Máy chiếu chính phục vụ giảng dạy lý thuyết phòng A101"
+  },
+  {
+    "deviceId": "TB002",
+    "name": "Bộ máy tính giáo viên Dell OptiPlex",
+    "deviceType": "Máy tính",
+    "room": "P.B203",
+    "brand": "Dell",
+    "model": "OptiPlex 7010 SFF Core i5",
+    "quantity": 1,
+    "status": "Đang sửa chữa",
+    "purchaseDate": "2025-09-01",
+    "description": "Đang kiểm tra lỗi nguồn và nâng cấp ổ cứng SSD"
+  },
+  {
+    "deviceId": "TB003",
+    "name": "Hệ thống âm thanh trợ giảng TOA",
+    "deviceType": "Thiết bị âm thanh",
+    "room": "P.C305",
+    "brand": "TOA",
+    "model": "A-2120 + Loa BS-1030B",
+    "quantity": 2,
+    "status": "Đang sử dụng",
+    "purchaseDate": "2025-05-20",
+    "description": "Bao gồm 1 amply, 2 loa treo tường và 2 micro không dây"
+  }
+]

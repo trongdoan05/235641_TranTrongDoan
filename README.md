@@ -26,3 +26,7 @@ Hệ thống quản lý thiết bị phòng học trên nền tảng đám mây,
 - Build image: docker build -t trongdoan05/frontend:latest ./frontend
 - Run container: docker run -d -p 3000:3000 --name frontend-app trongdoan05/frontend:latest
 - Link Docker Hub Frontend: https://hub.docker.com/r/trongdoan05/frontend
+
+## 7. Triển khai Frontend trên Render
+- Dịch vụ Render Frontend: web-235641
+- URL Frontend công khai: https://web-235641.onrender.com

@@ -30,3 +30,8 @@ Hệ thống quản lý thiết bị phòng học trên nền tảng đám mây,
 ## 7. Triển khai Frontend trên Render
 - Dịch vụ Render Frontend: web-235641
 - URL Frontend công khai: https://web-235641.onrender.com
+
+## 8. Triển khai Backend API trên Render
+- Dịch vụ Render Backend: api-235641
+- URL Backend API công khai: https://api-235641.onrender.com
+- Health Check Endpoint: https://api-235641.onrender.com/health
